@@ -8,11 +8,11 @@
 
 <img width="367" height="396" alt="Screenshot 2025-12-22 171846" src="https://github.com/user-attachments/assets/d0206221-f899-41cf-8f7e-abc196daef82" />
 
-## Removind an expense
+## Removing an expense
 
 <img width="530" height="768" alt="Screenshot 2025-12-22 172005" src="https://github.com/user-attachments/assets/05bc9890-b270-4426-9544-36a12fb97445" />
 
-## Deleting all expense
+## Deleting all expenses
 
 <img width="371" height="69" alt="Screenshot 2025-12-22 172058" src="https://github.com/user-attachments/assets/dd646d68-3cd9-4df0-9a65-6d1993f73665" />
 
